@@ -1,0 +1,109 @@
+brand: Nike
+ material: Poliamida
+ culoare: Rosu
+ pret: 300.0 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 99
+ Tip de sport: Ski
+ 
+
+brand: Balenciaga
+ material: Poliester
+ culoare: Galben
+ pret: 399.99 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 90
+ Tip de sport: Patinaj
+ 
+
+brand: Adidas
+ material: Poliester
+ culoare: Albastru
+ pret: 119.99 
+ gen:feminin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 80
+ Tip de sport: Snowboard
+ 
+
+brand: SOFTSHELL
+ material: Poliester
+ culoare: Negru
+ pret: 400.99 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 99
+ Tip de sport: Formula 1
+ 
+
+brand: STRIX
+ material: Nailon
+ culoare: Galbena
+ pret: 196.0 
+ gen:feminin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 94
+ Tip de sport: Jogging
+ 
+
+brand: Geographical Norway
+ material: Poliester
+ culoare: Gri
+ pret: 99.99 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 99
+ Tip de sport: Patinaj
+ 
+
+brand: Alpinus
+ material: Poliamida
+ culoare: Verde
+ pret: 500.47 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 99
+ Tip de sport: Ski
+ 
+
+brand:  Fleece Polar
+ material: Material izolant
+ culoare: Rosu
+ pret: 124.99 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 60
+ Tip de sport: Patinaj
+ 
+
+brand: Geographical Norway
+ material: Nailon
+ culoare: Negru
+ pret: 700.99 
+ gen:feminin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 95
+ Tip de sport: Alpinism
+ 
+
+brand: Columbia
+ material: Poliester
+ culoare: Verde miliatr
+ pret: 400.99 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: fermoar
+ RezistentaApa: 99
+ Tip de sport: Snowboard
+ 

@@ -1,0 +1,89 @@
+brand: Zara
+ material: Bumbac
+ culoare: Negru
+ pret: 80.0 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: Fermoar
+ 
+
+brand: Friday
+ material: Poliamida
+ culoare: Bleumarin
+ pret: 149.99 
+ gen:masculin 
+ Gluga: false
+ incheiereGeaca: Dubla cu fermoar
+ 
+
+brand: H&M
+ material: Poliester
+ culoare: Verde
+ pret: 70.0 
+ gen:feminin
+ Gluga: false
+ incheiereGeaca: Butoane
+ 
+
+brand:  DStreet
+ material: Poliester
+ culoare: Negru
+ pret: 440.0 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: Fermoar
+ 
+
+brand: Dewberry
+ material: Polieste
+ culoare: Bleumarin
+ pret: 290.9 
+ gen:masculin
+ Gluga: false
+ incheiereGeaca: Fermoar si butoane
+ 
+
+brand: Bigotti
+ material: Polieste
+ culoare: Grena
+ pret: 180.0 
+ gen:feminin
+ Gluga: true
+ incheiereGeaca: Fermoar
+ 
+
+brand: Zara
+ material: Poliamida
+ culoare: Roz
+ pret: 99.99 
+ gen:feminin
+ Gluga: true
+ incheiereGeaca: Dubla cu fermoar
+ 
+
+brand: BE GOOD MIRACLE 
+ material: Poliester
+ culoare: Albastru
+ pret: 249.0 
+ gen:masculin
+ Gluga: true
+ incheiereGeaca: Fermoar
+ 
+
+brand: Uramag
+ material: Blana Ecologica
+ culoare: Gri
+ pret: 167.0 
+ gen:feminin
+ Gluga: false
+ incheiereGeaca: Butoane
+ 
+
+brand: Slimfit
+ material: Bumbac
+ culoare: Albastru
+ pret: 74.14 
+ gen:masculin
+ Gluga: false
+ incheiereGeaca: Fermoar
+ 

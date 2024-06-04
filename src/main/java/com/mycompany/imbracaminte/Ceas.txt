@@ -1,0 +1,80 @@
+brand: Casio
+ material: Piele
+ culoare: Navy Blue
+ pret: 500.0 
+ gen:Barbati
+ Material curea: aluminiu
+ Functionalitate practica: Rezistent la apa 
+ 
+
+brand: CK
+ material: Plastic
+ culoare: Albastru
+ pret: 50.0 
+ gen:Barbati
+ Material curea: metal
+ Functionalitate practica: Rezistent la apa
+ 
+
+brand: LV
+ material: Metal
+ culoare: Negru
+ pret: 300.0 
+ gen:Barbati
+ Material curea: piele
+ Functionalitate practica: Rezistent la apa
+ 
+
+brand: Tommy
+ material: Lemn
+ culoare: Rosu
+ pret: 10.0 
+ gen:Barbati
+ Material curea: piele
+ Functionalitate practica: Rezistent la apa
+ 
+
+brand: Rolex
+ material: Cauciuc
+ culoare: Alb
+ pret: 5000.0 
+ gen:Barbati
+ Material curea: piele
+ Functionalitate practica: Rezistent la apa
+ 
+
+brand: CK
+ material: Plastic
+ culoare: Roz
+ pret: 100000.0 
+ gen:Barbati
+ Material curea: piele
+ Functionalitate practica: Rezistent la apa
+ 
+
+brand: Tommy
+ material: Piele
+ culoare: Navy Blue
+ pret: 56800.0 
+ gen:Sport
+ Material curea: piele
+ Functionalitate practica: Rezistent la apa
+ 
+
+brand: Casio
+ material: Metal
+ culoare: Negru
+ pret: 50021.0 
+ gen:Barbati
+ Material curea: piele
+ Functionalitate practica: Rezistent la apa
+ 
+
+brand: LV
+ material: Piele
+ culoare: Gri
+ pret: 580.0 
+ gen:Barbati
+ Material curea: piele
+ Functionalitate practica: Rezistent la apa 
+

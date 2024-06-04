@@ -1,0 +1,89 @@
+brand: Nike
+ material: piele intoarsa
+ culoare: alb
+ pret: 1199.99 
+ gen:masculin
+ marime: 41
+ tipTalpa: material sintetic 
+ 
+
+brand: Puma
+ material: piele sintetica
+ culoare: alb,rosu
+ pret: 249.99 
+ gen:feminin
+ marime: 37
+ tipTalpa: material sintetic
+ 
+
+brand: Vans
+ material: piele intoarsa
+ culoare: negru,alb
+ pret: 279.99 
+ gen:feminin
+ marime: 37
+ tipTalpa: material sintetic
+ 
+
+brand: Reebook
+ material: piele
+ culoare: crem
+ pret: 179.99 
+ gen:masculin
+ marime: 42
+ tipTalpa: material sintetic
+ 
+
+brand: Pull&Bear
+ material: piele sintetica
+ culoare: alb
+ pret: 139.99 
+ gen:feminin
+ marime: 38
+ tipTalpa: material sintetic
+ 
+
+brand: New Balance
+ material: piele sintetica
+ culoare: albastru,alb
+ pret: 329.99 
+ gen:masculin
+ marime: 42
+ tipTalpa: material sintetic
+ 
+
+brand: Adidas
+ material: piele, piele sintetica
+ culoare: negru,alb
+ pret: 679.99 
+ gen:masculin
+ marime: 37
+ tipTalpa: material sintetic
+ 
+
+brand: Converse
+ material: piele
+ culoare: negru, alb
+ pret: 389.99 
+ gen:feminin
+ marime: 37
+ tipTalpa: material sintetic
+ 
+
+brand: Alexander McQueen
+ material: piele
+ culoare: alb,negru
+ pret: 1999.99 
+ gen:masculin
+ marime: 41
+ tipTalpa: material sintetic
+ 
+
+brand: Nike
+ material: piele intoarsa
+ culoare: crem
+ pret: 359.99 
+ gen:masculin
+ marime: 42
+ tipTalpa: material sintetic
+ 

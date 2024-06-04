@@ -1,0 +1,120 @@
+brand: Nike
+ material: MODAL 
+ culoare: gri
+ pret: 32.99 
+ gen:Masculin
+ prohab: false
+ nrBuzunare: 1
+ stil: sport
+ tipsport: tenis 
+ 
+
+
+brand: adidas
+ material: Bumbac 
+ culoare: rosu
+ pret: 78.99 
+ gen:Feminin
+ prohab: true
+ nrBuzunare: 2
+ stil: sport
+ tipsport: tenis 
+ 
+
+
+brand: Puma
+ material: Bumbac
+ culoare: alb
+ pret: 89.99 
+ gen:Masculin
+ prohab: false
+ nrBuzunare: 3
+ stil: sport
+ tipsport: batminton 
+ 
+
+
+brand: Vans
+ material: Polister
+ culoare: albastru
+ pret: 100.99 
+ gen:Feminin
+ prohab: false
+ nrBuzunare: 4
+ stil: sport
+ tipsport: formula 1 
+ 
+
+
+brand: New Balance
+ material: MODAL 
+ culoare: negru
+ pret: 145.99 
+ gen:Masculin
+ prohab: true
+ nrBuzunare: 3
+ stil: sport
+ tipsport: basball 
+ 
+
+
+brand: Converse
+ material: polister 
+ culoare: galben
+ pret: 140.99 
+ gen:Feminin
+ prohab: false
+ nrBuzunare: 2
+ stil: sport
+ tipsport: handbal 
+ 
+
+
+brand: Nike
+ material: MODAL 
+ culoare: rosu
+ pret: 199.99 
+ gen:Masculin
+ prohab: true
+ nrBuzunare: 2
+ stil:  sport
+ tipsport: tenis 
+ 
+
+
+brand: Adidas
+ material: polister 
+ culoare: rosu
+ pret: 14.99 
+ gen:Feminin
+ prohab: false
+ nrBuzunare: 2
+ stil: sport
+ tipsport: tenis 
+ 
+
+
+brand: Nike
+ material: MODAL 
+ culoare: verde
+ pret: 47.99 
+ gen:Feminin
+ prohab: true
+ nrBuzunare: 2
+ stil: sport
+ tipsport: fotbal 
+ 
+
+
+brand: Vers
+ material: Bumbac 
+ culoare: albastru
+ pret: 99.99 
+ gen:Masculin
+ prohab: false
+ nrBuzunare: 4
+ stil: sport 
+ tipsport: sky 
+ 
+
+

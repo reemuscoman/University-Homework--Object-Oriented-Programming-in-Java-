@@ -1,0 +1,81 @@
+brand: Lensa
+ material: Metal
+ culoare: auriu
+ pret: 500.0 
+ gen:Barbati
+ Material rama: aluminiu
+ Tip: De soare
+ Culoare lentila: Negru
+ Marime: 50
+brand: LV
+ material: Plastic
+ culoare: negru
+ pret: 50.0 
+ gen:Barbati
+ Material rama: metal
+ Tip: De vedere
+ Culoare lentila: Gri
+ Marime: 45
+brand: CK
+ material: Otel
+ culoare: alb
+ pret: 20.0 
+ gen:Barbati
+ Material rama: metal
+ Tip: De soare
+ Culoare lentila: Alb
+ Marime: 54
+brand: Puma
+ material: Aluminiu
+ culoare: gri
+ pret: 970.0 
+ gen:Barbati
+ Material rama: titan
+ Tip: De vedere
+ Culoare lentila: Negru
+ Marime: 56
+brand: Nike
+ material: Bronz
+ culoare: auriu
+ pret: 65.0 
+ gen:Barbati
+ Material rama: metal
+ Tip: De soare
+ Culoare lentila: Negru
+ Marime: 40
+brand: Adidas
+ material: Metal
+ culoare: rosu
+ pret: 645.0 
+ gen:Barbati
+ Material rama: titan
+ Tip: De vedere
+ Culoare lentila: Alb
+ Marime: 46
+brand: Lensa
+ material: Aluminiu
+ culoare: verde
+ pret: 345.0 
+ gen:Barbati
+ Material rama: metal
+ Tip: De soare
+ Culoare lentila: Gri
+ Marime: 39
+brand: CK
+ material: Metal
+ culoare: roz
+ pret: 120.0 
+ gen:Barbati
+ Material rama: metal
+ Tip: De vedere
+ Culoare lentila: Negru
+ Marime: 50
+brand: LV
+ material: Otel
+ culoare: auriu
+ pret: 500.0 
+ gen:Barbati
+ Material rama: metal
+ Tip: De soare
+ Culoare lentila: Alb
+ Marime: 56

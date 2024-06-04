@@ -1,0 +1,99 @@
+brand: Adidas
+ material: imitatie de piele
+ culoare: rosu
+ pret: 599.99 
+ gen:masculin
+ marime: 41
+ tipTalpa: material sintetic pt. mers pe teren accidentat
+ activitate: alergat
+ 
+
+brand: Adidas
+ material: piele,piele sintetica
+ culoare: negru
+ pret: 1499.99 
+ gen:masculin
+ marime: 43
+ tipTalpa: cu crampon pentru teren de iarba
+ activitate: fotbal
+ 
+
+brand: Jordan
+ material: piele sintetica
+ culoare: negru
+ pret: 1199.99 
+ gen:masculin
+ marime: 43
+ tipTalpa: material sintetic pt. teren de sport
+ activitate: baschet
+ 
+
+brand: Nike
+ material: piele sintetica
+ culoare: negru
+ pret: 879.99 
+ gen:masculin
+ marime: 44
+ tipTalpa: cu crampon pentru teren de iarba
+ activitate: fotbal
+ 
+
+brand: Adidas
+ material: piele sintetica
+ culoare: roz
+ pret: 339.99 
+ gen:feminin
+ marime: 37
+ tipTalpa: material sintetic
+ activitate: alergat
+ 
+
+brand: Adidas
+ material: material textil
+ culoare: negru
+ pret: 299.99 
+ gen:masculin
+ marime: 43
+ tipTalpa: material sintetic pt. mers pe teren accidentat
+ activitate: alergat, drumetie
+ 
+
+brand: Jordan
+ material: piele sintetica, piele
+ culoare: galben
+ pret: 899.99 
+ gen:masculin
+ marime: 43
+ tipTalpa: material sintetic pt. teren de sport
+ activitate: baschet
+ 
+
+brand: Nike
+ material: piele sintetica
+ culoare: negru, alb
+ pret: 259.99 
+ gen:masculin
+ marime: 41
+ tipTalpa: material sintetic pt. teren de sport
+ activitate: alergat
+ 
+
+brand: Adidas
+ material: piele sintetica
+ culoare: negru
+ pret: 1799.99 
+ gen:masculin
+ marime: 44
+ tipTalpa: cu crampon pentru teren de iarba
+ activitate: fotbal
+ 
+
+brand: Pro Touch
+ material: piele sintetica
+ culoare: negru
+ pret: 99.99 
+ gen:masculin
+ marime: 43
+ tipTalpa: cu crampon pentru teren de iarba
+ activitate: fotbal
+ 

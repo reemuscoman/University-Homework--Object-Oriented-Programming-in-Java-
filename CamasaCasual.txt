@@ -1,0 +1,89 @@
+brand: H&M
+ material: blug
+ culoare: albastra
+ pret: 99.99 
+ gen:feminin
+ marime: 108
+ guler: mic 
+ 
+
+brand: Pull&Bear
+ material: bumbac
+ culoare: rosu
+ pret: 129.99 
+ gen:masculin
+ marime: 110
+ guler: mare 
+ 
+
+brand: Nike
+ material: matase
+ culoare: mov
+ pret: 179.99 
+ gen:feminin
+ marime: 107
+ guler: mic 
+ 
+
+brand: Under Armour
+ material: matase
+ culoare: verde
+ pret: 169.99 
+ gen:feminin
+ marime: 111
+ guler: mic 
+ 
+
+brand: Adidas
+ material: blug
+ culoare: albastra
+ pret: 199.99 
+ gen:feminin
+ marime: 120
+ guler: mic 
+ 
+
+brand: Intersport
+ material: blug
+ culoare: mov
+ pret: 209.99 
+ gen:feminin
+ marime: 101
+ guler: mare 
+ 
+
+brand: H&M
+ material: bumbac
+ culoare: albastra
+ pret: 99.99 
+ gen:masculin
+ marime: 101
+ guler: mic 
+ 
+
+brand: LeeCooper
+ material: matase
+ culoare: verde
+ pret: 89.99 
+ gen:feminin
+ marime: 100
+ guler: mare 
+ 
+
+brand: H&M
+ material: bumbac
+ culoare: rosu
+ pret: 79.99 
+ gen:masculin
+ marime: 103
+ guler: mic 
+ 
+
+brand: H&M
+ material: blug
+ culoare: mov
+ pret: 149.99 
+ gen:masculin
+ marime: 115
+ guler: mare 
+

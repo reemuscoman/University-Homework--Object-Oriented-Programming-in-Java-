@@ -1,0 +1,80 @@
+brand: Nike
+ material: material1
+ culoare: verde
+ pret: 19.99 
+ gen:masculin
+ prohab: true
+ nrBuzunare: 2
+ stil: casual
+brand: Puma
+ material: canepa
+ culoare: galben
+ pret: 24.99 
+ gen:feminin
+ prohab: false
+ nrBuzunare: 1
+ stil: casual
+brand: Fila
+ material: alpaca
+ culoare: mov
+ pret: 179.99 
+ gen:feminin
+ prohab: true
+ nrBuzunare: 7
+ stil: bomber
+brand: adidas
+ material: matase 
+ culoare: maro
+ pret: 28.99 
+ gen:masculin
+ prohab: true
+ nrBuzunare: 7
+ stil: casual slim
+brand: Nike
+ material: bumbac
+ culoare: rosu
+ pret: 34.99 
+ gen:masculin
+ prohab: false
+ nrBuzunare: 4
+ stil: bomber slim
+brand: Puma
+ material: canepa
+ culoare: galben
+ pret: 15.99 
+ gen:feminin
+ prohab: false
+ nrBuzunare: 9
+ stil: casual
+brand: Nike
+ material: in 
+ culoare: rosu
+ pret: 149.99 
+ gen:masculin
+ prohab: true
+ nrBuzunare: 1
+ stil: bomber slim
+brand: Rebook
+ material: bumbac
+ culoare: verde
+ pret: 249.99 
+ gen:masculin
+ prohab: false
+ nrBuzunare: 8
+ stil: casual slim
+brand: Nike
+ material: lana
+ culoare: rosu
+ pret: 49.99 
+ gen:meminin
+ prohab: true
+ nrBuzunare: 6
+ stil: casual 
+brand: Nike
+ material: bumbac
+ culoare: maro
+ pret: 14.99 
+ gen:masculin
+ prohab: false
+ nrBuzunare: 7
+ stil: casual slim

@@ -1,0 +1,90 @@
+brand: Nike
+ material: anti uv
+ culoare: rosie
+ pret: 109.99 
+ gen:feminin
+ marime: 104
+ guler: fara guler
+ activitate: mers pe durate lungi in soare
+ protectie_uv: 40
+brand: Adidas
+ material: anti uv
+ culoare: rosie
+ pret: 99.99 
+ gen:masculin
+ marime: 121
+ guler: mare
+ activitate: alergat in soare
+ protectie_uv: 42
+brand: Under Armour
+ material: anti uv
+ culoare: rosie
+ pret: 219.99 
+ gen:feminin
+ marime: 99
+ guler: mic
+ activitate: mers pe durate lungi in soare
+ protectie_uv: 47
+brand: H&M
+ material: anti uv
+ culoare: rosie
+ pret: 119.99 
+ gen:masculin
+ marime: 103
+ guler: mic
+ activitate: alergat in soare
+ protectie_uv: 42
+brand: Pepco
+ material: anti uv
+ culoare: rosie
+ pret: 149.99 
+ gen:feminin
+ marime: 107
+ guler: fara guler
+ activitate: mers pe durate lungi in soare
+ protectie_uv: 55
+brand: Pull&Bear
+ material: anti uv
+ culoare: rosie
+ pret: 109.99 
+ gen:masculin
+ marime: 125
+ guler: fara guler
+ activitate: alergat in soare
+ protectie_uv: 38
+brand: Intersport
+ material: anti uv
+ culoare: rosie
+ pret: 179.99 
+ gen:feminin
+ marime: 100
+ guler: mare
+ activitate: mers pe durate scurte in soare
+ protectie_uv: 60
+brand: Nike
+ material: anti uv
+ culoare: rosie
+ pret: 159.99 
+ gen:feminin
+ marime: 136
+ guler: micr
+ activitate: alergat in soare
+ protectie_uv: 42
+brand: Adidas
+ material: anti uv
+ culoare: rosie
+ pret: 159.99 
+ gen:masculin
+ marime: 109
+ guler: fara guler
+ activitate: mers pe durate scurte in soare
+ protectie_uv: 49
+brand: Underarmour
+ material: anti uv
+ culoare: rosie
+ pret: 129.99 
+ gen:masculin
+ marime: 100
+ guler: mic
+ activitate: mers pe durate lungi in soare
+ protectie_uv: 40
